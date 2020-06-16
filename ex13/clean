@@ -1,0 +1,2 @@
+find /tmp/event -iname "*~"
+find /tmp/event -iname "#*"
